@@ -1,1 +1,1 @@
-﻿Different functions of javascript
+﻿Differents functions of javascript
