@@ -1,0 +1,1 @@
+﻿Different functions of javascript
